@@ -1,5 +1,5 @@
 # TheLastZaxxon
-Build of my game "TheLastZaxxon" still in development.
+Build of my game "TheLastZaxxon" which is still in development.
 
 You can downloud it here too: https://mike-cruz.itch.io/thelastzaxxon
 
