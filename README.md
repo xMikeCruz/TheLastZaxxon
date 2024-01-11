@@ -1,7 +1,7 @@
 # TheLastZaxxon
 Build of my game "TheLastZaxxon" still in development.
 
-You can downloud it here too: 
+You can downloud it here too: https://mike-cruz.itch.io/thelastzaxxon
 
 ![TheLastZaxxon_Miniatura](https://github.com/xMikeCruz/TheLastZaxxon/assets/129050131/422d8334-5a77-4d99-8001-152e371c5c91)
 ![CruzMiguel_ZAXXON 11_01_2024 1_35_40](https://github.com/xMikeCruz/TheLastZaxxon/assets/129050131/a2c2ae40-30f2-453a-a16a-627ef4af8624)
